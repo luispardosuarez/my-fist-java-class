@@ -1,17 +1,19 @@
 package dev.luispardo.myfirsjavaclass;
 
-/**
- * Hello world!
- */
-public final class App {
-    private App() {
-    }
+import dev.luispardo.Persona;
 
-    /**
-     * Says hello to the world.
-     * @param args The arguments of the program.
-     */
+public class App {
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+      
+        Persona persona1 = new Persona("Juan", "Perez", 12345678, 1990, "España", 'H');
+        Persona persona2 = new Persona("Maria", "Gomez", 98765432, 1985, "Francia", 'M');
+
+     
+        System.out.println("Persona 1:");
+        persona1.imprimir();
+
+        System.out.println("\nPersona 2:");
+        persona2.imprimir();
     }
 }
+
