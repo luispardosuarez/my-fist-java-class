@@ -1,6 +1,6 @@
 # Person Information System - First Java Exercise 🌟
 
-Welcome to the Person Information System, your first stop in the Fullstack Bootcamp's Java journey! 🎉 This simple Java application models essential details about individuals, from names and IDs to birthplaces and genders.
+Welcome to the Person Information System, my first stop in the Fullstack Bootcamp's Java journey! 🎉 This simple Java application models essential details about individuals, from names and IDs to birthplaces and genders.
 
 ## Technologies Used
 
@@ -33,4 +33,4 @@ Say hello to the new kids on the block: `countryOfBirth` and `gender`. We've upg
 
 In the `main` method of the `App` class, we create two unique personas and unveil their attribute values in style.
 
-This marks the beginning of your Fullstack journey! Feel free to tweak, experiment, and make this Person Information System truly your own. Happy coding! 🌈
+Feel free to customize, experiment, and turn this Person Information System into something that truly reflects your style. Enjoy coding! 😎
